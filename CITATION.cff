@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this model, please cite it as follows:"
+authors:
+  - family-names: "Bala"
+    given-names: "Nikassh"
+title: "Coupled Multiscale Epidemic ODE Solver for Viral Kinetics and Macro Transmission"
+version: 1.0.0
+date-released: 2026-09-11
+url: "https://github.com/Nikassh/Coupled-Epidemic-ODE-Solver"
+license: MIT
